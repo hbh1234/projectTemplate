@@ -1,4 +1,4 @@
 <template>
-  <div id="nav">dd3333dd</div>
+  <div id="nav">1</div>
   <router-view />
 </template>
